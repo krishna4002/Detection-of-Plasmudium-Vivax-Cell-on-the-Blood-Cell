@@ -1,5 +1,5 @@
 
-# 🦠 Infected Cell Detection App
+# 🦠 Object Detection App
 
 This project is a **Streamlit-based web application** for detecting infected (parasitized) cells in microscope images. It supports both **image upload** and **real-time camera capture** for processing.
 
