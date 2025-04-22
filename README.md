@@ -26,11 +26,6 @@ Install Python dependencies:
 pip install -r requirements.txt
 ```
 
-Install system dependency (required by OpenCV for some environments):
-
-```bash
-sudo apt-get install libgl1-mesa-glx
-```
 
 ## 🚀 How to Run
 
