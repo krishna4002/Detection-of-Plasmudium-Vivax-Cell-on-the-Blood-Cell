@@ -3,6 +3,12 @@
 
 This project is a **Streamlit-based web application** for detecting infected (parasitized) cells in microscope images. It supports both **image upload** and **real-time camera capture** for processing.
 
+
+## 🌐 Live Demo
+
+👉 **Try the app here:** [Infected Cell Detection on Streamlit](https://detection-of-plasmudium-vivax-cell-on-the-blood-cell-arocvi7kp.streamlit.app/)
+
+
 ## 🔍 Features
 
 - 📤 Upload images or 📷 capture from your camera
@@ -66,10 +72,3 @@ streamlit run App.py
 
 - Works best with clear microscopic images.
 - All processed images are saved to the `output/` folder.
-
-## 🌐 Live App
-
-You can try the app live here:  
-🔗 [Infected Cell Detection App] (https://detection-of-plasmudium-vivax-cell-on-the-blood-cell-arocvi7kp.streamlit.app/)
-
-
