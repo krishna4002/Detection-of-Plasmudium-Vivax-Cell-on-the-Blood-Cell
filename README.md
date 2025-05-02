@@ -18,7 +18,7 @@ This project is a **Streamlit-based web application** for detecting infected (pa
 👉 **Try the app here:** [Infected Cell Detection on Streamlit](https://detection-of-plasmudium-vivax-cell-on-the-blood-cell-arocvi7kp.streamlit.app/)
 
 
-## 🛠 Requirements
+## Requirements
 
 Install Python dependencies:
 
